@@ -1,0 +1,14 @@
+*.pyc
+*~
+__pycache__
+db.sqlite3
+myvenv
+venv
+vue_env
+/static
+.idea
+.DS_Store
+workspace.xml
+misc.xml
+*.iml
+local_settings.py
